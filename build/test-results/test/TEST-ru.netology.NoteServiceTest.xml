@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.NoteServiceTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2022-04-27T19:56:38" hostname="UCOMP" time="0.807">
+  <properties/>
+  <testcase name="editComment_Exception" classname="ru.netology.NoteServiceTest" time="0.025"/>
+  <testcase name="edit_Note" classname="ru.netology.NoteServiceTest" time="0.0"/>
+  <testcase name="getComments_Nfe_Exception" classname="ru.netology.NoteServiceTest" time="0.0"/>
+  <testcase name="editComment" classname="ru.netology.NoteServiceTest" time="0.001"/>
+  <testcase name="edit_Note_IsDeleted_Exception" classname="ru.netology.NoteServiceTest" time="0.0"/>
+  <testcase name="createComment" classname="ru.netology.NoteServiceTest" time="0.0"/>
+  <testcase name="deleteNote_Nfe_Exception" classname="ru.netology.NoteServiceTest" time="0.0"/>
+  <testcase name="add_new_Note" classname="ru.netology.NoteServiceTest" time="0.0"/>
+  <testcase name="restoreComment_Exception" classname="ru.netology.NoteServiceTest" time="0.0"/>
+  <testcase name="deleteNote_Eid_Exception" classname="ru.netology.NoteServiceTest" time="0.001"/>
+  <testcase name="get" classname="ru.netology.NoteServiceTest" time="0.77"/>
+  <testcase name="createComment_exception_notfound" classname="ru.netology.NoteServiceTest" time="0.0"/>
+  <testcase name="restoreComment" classname="ru.netology.NoteServiceTest" time="0.001"/>
+  <testcase name="deleteComment" classname="ru.netology.NoteServiceTest" time="0.001"/>
+  <testcase name="createComment_exception_IsDeleted" classname="ru.netology.NoteServiceTest" time="0.0"/>
+  <testcase name="getComments" classname="ru.netology.NoteServiceTest" time="0.001"/>
+  <testcase name="deleteComment_Eid_Exception" classname="ru.netology.NoteServiceTest" time="0.001"/>
+  <testcase name="deleteNote" classname="ru.netology.NoteServiceTest" time="0.0"/>
+  <testcase name="edit_Note_NotFound_Exeption" classname="ru.netology.NoteServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
