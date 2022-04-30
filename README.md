@@ -1,21 +1,21 @@
-#Сервис заметок (Notes)
-##Реализованы функции
-* ###notes.add
+# Сервис заметок (Notes)
+## Реализованы функции
+* ### notes.add
     * Исключены параметры comment_privacy,privacy_view, privacy_comment
-* ###notes.createComment
+* ### notes.createComment
   * replay_id, owner_id, guid
-* ###notes.delete
-* ###notes.deleteComment
+* ### notes.delete
+* ### notes.deleteComment
   * owner_id
-* ###notes.edit
+* ### notes.edit
   * privacy, comment_privacy,privacy_view, privacy_comment
-* ###notes.editComment
+* ### notes.editComment
   * owner_id
-* ###notes.get
+* ### notes.get
   * user_id
-* ###notes.getById
+* ### notes.getById
   * owner_id, need_wiki
-* ###notes.getComments
+* ### notes.getComments
   * owner_id
-* ###notes.restoreComment
+* ### notes.restoreComment
   * owner_id
